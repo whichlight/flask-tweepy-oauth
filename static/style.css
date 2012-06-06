@@ -1,0 +1,18 @@
+body{
+	font-family:helvetica; 
+}
+
+#tweet{
+	font-size:20px;
+	margin:20px;	
+	color: gray;
+}
+
+#tweets, h1, #footer{
+	width:40%;
+	margin:0px auto;
+}
+
+h1, #footer{
+	text-align:center;
+}
